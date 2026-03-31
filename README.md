@@ -84,12 +84,12 @@ The assignment includes multiple sections covering patterns, OOP concepts, excep
 
 1. Clone the repository  
 ```
-git clone <your-repo-link>
+https://github.com/jatin009v/Java-programs-assignment/
 ```
 
-2. Go to project folder  
+2. Go to File 
 ```
-cd <folder-name>
+cd File Name as per need.
 ```
 
 3. Compile  
