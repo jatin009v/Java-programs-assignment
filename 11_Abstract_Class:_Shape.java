@@ -1,4 +1,6 @@
-abstract class Shape {
+// 11. Create an abstract class 'Shape' with abstract method `area()'. Implement `Circle' and 'Rectangle' classes.
+
+    abstract class Shape {
     abstract void area(); // No body here
 }
 
